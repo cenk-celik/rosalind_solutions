@@ -2,7 +2,7 @@
 
 ## Hi!
 
-I am a novice in programming with a long biology background.
+I am a newbie in programming with a long biology background.
 Here, I share the solutions for problems in [ROSALIND](https://rosalind.info) website.
 The solutions might not be optimum for coding.
 All I want to do is learning to write scripts from the scratch, with **minimum library use**.
